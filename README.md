@@ -1,10 +1,10 @@
 # TCP-Session-Hijacking
 
-In this project, I have tried to demonstrate how we can cause a TCP Session Hijacking attack in a network. We have three Virtual Machines in a network. First we will conduct ARP Spoofing attack from the attacker virtual machine. Then the attacker will try to get the session info of the open TCP connection from the other two machines. 
+In this project, I have tried to demonstrate how we can cause a TCP Session Hijacking attack in a network. We have three Virtual Machines (SEED: https://seedsecuritylabs.org/labsetup.html) in a network. First we will conduct ARP Spoofing attack from the attacker virtual machine. Then the attacker will try to get the session info of the open TCP connection from the other two machines. 
 
 To run this:
 
-1. Create three SEED virtual machines in the same network: victim client, attacker and server
+1. Create three SEED (https://drive.google.com/file/d/138fqx0F8bThLm9ka8cnuxmrD6irtz_4m/view) virtual machines in the same network: victim client, attacker and server
 2. Download and unzip the directory in one of the SEED VMs, this will be the attacker VM
 3. Update the cmnd.sh file in the "Code" folder with the correct IP addresses of the client and the server in the attacker VM
 4. Start the server by running echo-tcp-server.py (available in the SEED vm) file with a correct IP and port in the server VM
