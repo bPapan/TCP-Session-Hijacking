@@ -1,0 +1,1092 @@
+Protocol :2048
+Source Mac :780cb83aac8c
+Destination Mac :01005e7ffffa
+
+
+Protocol :17
+Total Length :202
+Version :69
+Identification :36880
+TTL :1
+Fragment :0
+Tos :0
+Header CheckSum :30728
+Source Address :192.168.0.104
+Destination Address :239.255.255.250
+
+
+Window :17224
+Source Port :59765
+Offset & Reserved :65
+Tcp Flag :82
+CheckSum :8234
+Destination Port :1900
+Urgent Pointer :8264
+Sequence Number :11951836
+Acknowledge Number :1294816069
+
+
+Protocol :2048
+Source Mac :780cb83aac8c
+Destination Mac :01005e7ffffa
+
+
+Protocol :17
+Total Length :202
+Version :69
+Identification :36881
+TTL :1
+Fragment :0
+Tos :0
+Header CheckSum :30727
+Source Address :192.168.0.104
+Destination Address :239.255.255.250
+
+
+Window :17224
+Source Port :59765
+Offset & Reserved :65
+Tcp Flag :82
+CheckSum :8234
+Destination Port :1900
+Urgent Pointer :8264
+Sequence Number :11951836
+Acknowledge Number :1294816069
+
+
+Protocol :2048
+Source Mac :780cb83aac8c
+Destination Mac :01005e7ffffa
+
+
+Protocol :17
+Total Length :202
+Version :69
+Identification :36882
+TTL :1
+Fragment :0
+Tos :0
+Header CheckSum :30726
+Source Address :192.168.0.104
+Destination Address :239.255.255.250
+
+
+Window :17224
+Source Port :59765
+Offset & Reserved :65
+Tcp Flag :82
+CheckSum :8234
+Destination Port :1900
+Urgent Pointer :8264
+Sequence Number :11951836
+Acknowledge Number :1294816069
+
+
+Protocol :2048
+Source Mac :780cb83aac8c
+Destination Mac :01005e7ffffa
+
+
+Protocol :17
+Total Length :202
+Version :69
+Identification :36883
+TTL :1
+Fragment :0
+Tos :0
+Header CheckSum :30725
+Source Address :192.168.0.104
+Destination Address :239.255.255.250
+
+
+Window :17224
+Source Port :59765
+Offset & Reserved :65
+Tcp Flag :82
+CheckSum :8234
+Destination Port :1900
+Urgent Pointer :8264
+Sequence Number :11951836
+Acknowledge Number :1294816069
+
+
+Protocol :2048
+Source Mac :0c8063e9ed44
+Destination Mac :01005e7ffffa
+
+
+Protocol :17
+Total Length :445
+Version :69
+Identification :0
+TTL :4
+Fragment :16384
+Tos :0
+Header CheckSum :50316
+Source Address :192.168.0.1
+Destination Address :239.255.255.250
+
+
+Window :8234
+Source Port :46291
+Offset & Reserved :70
+Tcp Flag :89
+CheckSum :8264
+Destination Port :1900
+Urgent Pointer :21588
+Sequence Number :27871715
+Acknowledge Number :1313821769
+
+
+Protocol :2048
+Source Mac :0c8063e9ed44
+Destination Mac :01005e7ffffa
+
+
+Protocol :17
+Total Length :454
+Version :69
+Identification :0
+TTL :4
+Fragment :16384
+Tos :0
+Header CheckSum :50307
+Source Address :192.168.0.1
+Destination Address :239.255.255.250
+
+
+Window :8234
+Source Port :46291
+Offset & Reserved :70
+Tcp Flag :89
+CheckSum :8264
+Destination Port :1900
+Urgent Pointer :21588
+Sequence Number :28497108
+Acknowledge Number :1313821769
+
+
+Protocol :2048
+Source Mac :0c8063e9ed44
+Destination Mac :01005e7ffffa
+
+
+Protocol :17
+Total Length :517
+Version :69
+Identification :0
+TTL :4
+Fragment :16384
+Tos :0
+Header CheckSum :50244
+Source Address :192.168.0.1
+Destination Address :239.255.255.250
+
+
+Window :8234
+Source Port :46291
+Offset & Reserved :70
+Tcp Flag :89
+CheckSum :8264
+Destination Port :1900
+Urgent Pointer :21588
+Sequence Number :32588413
+Acknowledge Number :1313821769
+
+
+Protocol :2048
+Source Mac :0c8063e9ed44
+Destination Mac :01005e7ffffa
+
+
+Protocol :17
+Total Length :509
+Version :69
+Identification :0
+TTL :4
+Fragment :16384
+Tos :0
+Header CheckSum :50252
+Source Address :192.168.0.1
+Destination Address :239.255.255.250
+
+
+Window :8234
+Source Port :46291
+Offset & Reserved :70
+Tcp Flag :89
+CheckSum :8264
+Destination Port :1900
+Urgent Pointer :21588
+Sequence Number :32070597
+Acknowledge Number :1313821769
+
+
+Protocol :2048
+Source Mac :0c8063e9ed44
+Destination Mac :01005e7ffffa
+
+
+Protocol :17
+Total Length :454
+Version :69
+Identification :0
+TTL :4
+Fragment :16384
+Tos :0
+Header CheckSum :50307
+Source Address :192.168.0.1
+Destination Address :239.255.255.250
+
+
+Window :8234
+Source Port :46291
+Offset & Reserved :70
+Tcp Flag :89
+CheckSum :8264
+Destination Port :1900
+Urgent Pointer :21588
+Sequence Number :28496851
+Acknowledge Number :1313821769
+
+
+Protocol :2048
+Source Mac :0c8063e9ed44
+Destination Mac :01005e7ffffa
+
+
+Protocol :17
+Total Length :493
+Version :69
+Identification :0
+TTL :4
+Fragment :16384
+Tos :0
+Header CheckSum :50268
+Source Address :192.168.0.1
+Destination Address :239.255.255.250
+
+
+Window :8234
+Source Port :46291
+Offset & Reserved :70
+Tcp Flag :89
+CheckSum :8264
+Destination Port :1900
+Urgent Pointer :21588
+Sequence Number :31030247
+Acknowledge Number :1313821769
+
+
+Protocol :2048
+Source Mac :0c8063e9ed44
+Destination Mac :01005e7ffffa
+
+
+Protocol :17
+Total Length :454
+Version :69
+Identification :0
+TTL :4
+Fragment :16384
+Tos :0
+Header CheckSum :50307
+Source Address :192.168.0.1
+Destination Address :239.255.255.250
+
+
+Window :8234
+Source Port :46291
+Offset & Reserved :70
+Tcp Flag :89
+CheckSum :8264
+Destination Port :1900
+Urgent Pointer :21588
+Sequence Number :28496594
+Acknowledge Number :1313821769
+
+
+Protocol :2048
+Source Mac :0c8063e9ed44
+Destination Mac :01005e7ffffa
+
+
+Protocol :17
+Total Length :513
+Version :69
+Identification :0
+TTL :4
+Fragment :16384
+Tos :0
+Header CheckSum :50248
+Source Address :192.168.0.1
+Destination Address :239.255.255.250
+
+
+Window :8234
+Source Port :46291
+Offset & Reserved :70
+Tcp Flag :89
+CheckSum :8264
+Destination Port :1900
+Urgent Pointer :21588
+Sequence Number :32328136
+Acknowledge Number :1313821769
+
+
+Protocol :2048
+Source Mac :0c8063e9ed44
+Destination Mac :01005e7ffffa
+
+
+Protocol :17
+Total Length :507
+Version :69
+Identification :0
+TTL :4
+Fragment :16384
+Tos :0
+Header CheckSum :50254
+Source Address :192.168.0.1
+Destination Address :239.255.255.250
+
+
+Window :8234
+Source Port :46291
+Offset & Reserved :70
+Tcp Flag :89
+CheckSum :8264
+Destination Port :1900
+Urgent Pointer :21588
+Sequence Number :31953402
+Acknowledge Number :1313821769
+
+
+Protocol :2048
+Source Mac :0c8063e9ed44
+Destination Mac :01005e7ffffa
+
+
+Protocol :17
+Total Length :445
+Version :69
+Identification :0
+TTL :4
+Fragment :16384
+Tos :0
+Header CheckSum :50316
+Source Address :192.168.0.1
+Destination Address :239.255.255.250
+
+
+Window :8234
+Source Port :46291
+Offset & Reserved :70
+Tcp Flag :89
+CheckSum :8264
+Destination Port :1900
+Urgent Pointer :21588
+Sequence Number :27871715
+Acknowledge Number :1313821769
+
+
+Protocol :2048
+Source Mac :0c8063e9ed44
+Destination Mac :01005e7ffffa
+
+
+Protocol :17
+Total Length :454
+Version :69
+Identification :0
+TTL :4
+Fragment :16384
+Tos :0
+Header CheckSum :50307
+Source Address :192.168.0.1
+Destination Address :239.255.255.250
+
+
+Window :8234
+Source Port :46291
+Offset & Reserved :70
+Tcp Flag :89
+CheckSum :8264
+Destination Port :1900
+Urgent Pointer :21588
+Sequence Number :28497108
+Acknowledge Number :1313821769
+
+
+Protocol :2048
+Source Mac :0c8063e9ed44
+Destination Mac :01005e7ffffa
+
+
+Protocol :17
+Total Length :517
+Version :69
+Identification :0
+TTL :4
+Fragment :16384
+Tos :0
+Header CheckSum :50244
+Source Address :192.168.0.1
+Destination Address :239.255.255.250
+
+
+Window :8234
+Source Port :46291
+Offset & Reserved :70
+Tcp Flag :89
+CheckSum :8264
+Destination Port :1900
+Urgent Pointer :21588
+Sequence Number :32588413
+Acknowledge Number :1313821769
+
+
+Protocol :2048
+Source Mac :0c8063e9ed44
+Destination Mac :01005e7ffffa
+
+
+Protocol :17
+Total Length :509
+Version :69
+Identification :0
+TTL :4
+Fragment :16384
+Tos :0
+Header CheckSum :50252
+Source Address :192.168.0.1
+Destination Address :239.255.255.250
+
+
+Window :8234
+Source Port :46291
+Offset & Reserved :70
+Tcp Flag :89
+CheckSum :8264
+Destination Port :1900
+Urgent Pointer :21588
+Sequence Number :32070597
+Acknowledge Number :1313821769
+
+
+Protocol :2048
+Source Mac :0c8063e9ed44
+Destination Mac :01005e7ffffa
+
+
+Protocol :17
+Total Length :454
+Version :69
+Identification :0
+TTL :4
+Fragment :16384
+Tos :0
+Header CheckSum :50307
+Source Address :192.168.0.1
+Destination Address :239.255.255.250
+
+
+Window :8234
+Source Port :46291
+Offset & Reserved :70
+Tcp Flag :89
+CheckSum :8264
+Destination Port :1900
+Urgent Pointer :21588
+Sequence Number :28496851
+Acknowledge Number :1313821769
+
+
+Protocol :2048
+Source Mac :0c8063e9ed44
+Destination Mac :01005e7ffffa
+
+
+Protocol :17
+Total Length :493
+Version :69
+Identification :0
+TTL :4
+Fragment :16384
+Tos :0
+Header CheckSum :50268
+Source Address :192.168.0.1
+Destination Address :239.255.255.250
+
+
+Window :8234
+Source Port :46291
+Offset & Reserved :70
+Tcp Flag :89
+CheckSum :8264
+Destination Port :1900
+Urgent Pointer :21588
+Sequence Number :31030247
+Acknowledge Number :1313821769
+
+
+Protocol :2048
+Source Mac :0800271b0f7c
+Destination Mac :0800276a6f3a
+
+
+Protocol :6
+Total Length :59
+Version :69
+Identification :22202
+TTL :64
+Fragment :16384
+Tos :0
+Header CheckSum :25029
+Source Address :192.168.0.122
+Destination Address :192.168.0.115
+
+
+Window :457
+Source Port :52122
+Offset & Reserved :128
+Tcp Flag :24
+CheckSum :24365
+Destination Port :65484
+Urgent Pointer :0
+Sequence Number :2945637859
+Acknowledge Number :662202226
+
+
+Protocol :2048
+Source Mac :0800271b0f7c
+Destination Mac :0800276a6f3a
+
+
+Protocol :6
+Total Length :59
+Version :69
+Identification :22203
+TTL :64
+Fragment :16384
+Tos :0
+Header CheckSum :25028
+Source Address :192.168.0.122
+Destination Address :192.168.0.115
+
+
+Window :457
+Source Port :52122
+Offset & Reserved :128
+Tcp Flag :24
+CheckSum :24313
+Destination Port :65484
+Urgent Pointer :0
+Sequence Number :2945637859
+Acknowledge Number :662202226
+
+
+Protocol :2048
+Source Mac :0800271b0f7c
+Destination Mac :0800276a6f3a
+
+
+Protocol :6
+Total Length :59
+Version :69
+Identification :22204
+TTL :64
+Fragment :16384
+Tos :0
+Header CheckSum :25027
+Source Address :192.168.0.122
+Destination Address :192.168.0.115
+
+
+Window :457
+Source Port :52122
+Offset & Reserved :128
+Tcp Flag :24
+CheckSum :24261
+Destination Port :65484
+Urgent Pointer :0
+Sequence Number :2945637859
+Acknowledge Number :662202226
+
+
+Protocol :2048
+Source Mac :0800271b0f7c
+Destination Mac :0800276a6f3a
+
+
+Protocol :6
+Total Length :59
+Version :69
+Identification :22205
+TTL :64
+Fragment :16384
+Tos :0
+Header CheckSum :25026
+Source Address :192.168.0.122
+Destination Address :192.168.0.115
+
+
+Window :457
+Source Port :52122
+Offset & Reserved :128
+Tcp Flag :24
+CheckSum :24151
+Destination Port :65484
+Urgent Pointer :0
+Sequence Number :2945637859
+Acknowledge Number :662202226
+
+
+Protocol :2048
+Source Mac :0800271b0f7c
+Destination Mac :0800276a6f3a
+
+
+Protocol :6
+Total Length :59
+Version :69
+Identification :22206
+TTL :64
+Fragment :16384
+Tos :0
+Header CheckSum :25025
+Source Address :192.168.0.122
+Destination Address :192.168.0.115
+
+
+Window :457
+Source Port :52122
+Offset & Reserved :128
+Tcp Flag :24
+CheckSum :23943
+Destination Port :65484
+Urgent Pointer :0
+Sequence Number :2945637859
+Acknowledge Number :662202226
+
+
+Protocol :2048
+Source Mac :0800271b0f7c
+Destination Mac :0800276a6f3a
+
+
+Protocol :6
+Total Length :59
+Version :69
+Identification :22207
+TTL :64
+Fragment :16384
+Tos :0
+Header CheckSum :25024
+Source Address :192.168.0.122
+Destination Address :192.168.0.115
+
+
+Window :457
+Source Port :52122
+Offset & Reserved :128
+Tcp Flag :24
+CheckSum :23527
+Destination Port :65484
+Urgent Pointer :0
+Sequence Number :2945637859
+Acknowledge Number :662202226
+
+
+Protocol :2048
+Source Mac :0800271b0f7c
+Destination Mac :0800276a6f3a
+
+
+Protocol :6
+Total Length :59
+Version :69
+Identification :22208
+TTL :64
+Fragment :16384
+Tos :0
+Header CheckSum :25023
+Source Address :192.168.0.122
+Destination Address :192.168.0.115
+
+
+Window :457
+Source Port :52122
+Offset & Reserved :128
+Tcp Flag :24
+CheckSum :22647
+Destination Port :65484
+Urgent Pointer :0
+Sequence Number :2945637859
+Acknowledge Number :662202226
+
+
+Protocol :2048
+Source Mac :0c8063e9ed44
+Destination Mac :01005e000001
+
+
+Protocol :2
+Total Length :36
+Version :70
+Identification :0
+TTL :1
+Fragment :16384
+Tos :0
+Header CheckSum :17449
+Source Address :192.168.0.1
+Destination Address :224.0.0.1
+
+
+Window :0
+Source Port :37892
+Offset & Reserved :2
+Tcp Flag :125
+CheckSum :0
+Destination Port :0
+Urgent Pointer :0
+Sequence Number :291826718
+Acknowledge Number :0
+
+
+Protocol :2048
+Source Mac :780cb83aac8c
+Destination Mac :01005e000016
+
+
+Protocol :2
+Total Length :40
+Version :70
+Identification :60472
+TTL :1
+Fragment :0
+Tos :0
+Header CheckSum :38768
+Source Address :192.168.0.104
+Destination Address :224.0.0.22
+
+
+Window :0
+Source Port :37892
+Offset & Reserved :2
+Tcp Flag :0
+CheckSum :57344
+Destination Port :0
+Urgent Pointer :252
+Sequence Number :570489601
+Acknowledge Number :1
+
+
+Protocol :2048
+Source Mac :0800271b0f7c
+Destination Mac :0800276a6f3a
+
+
+Protocol :6
+Total Length :59
+Version :69
+Identification :22209
+TTL :64
+Fragment :16384
+Tos :0
+Header CheckSum :25022
+Source Address :192.168.0.122
+Destination Address :192.168.0.115
+
+
+Window :457
+Source Port :52122
+Offset & Reserved :128
+Tcp Flag :24
+CheckSum :20983
+Destination Port :65484
+Urgent Pointer :0
+Sequence Number :2945637859
+Acknowledge Number :662202226
+
+
+Protocol :2048
+Source Mac :780cb83aac8c
+Destination Mac :01005e000016
+
+
+Protocol :2
+Total Length :40
+Version :70
+Identification :60473
+TTL :1
+Fragment :0
+Tos :0
+Header CheckSum :38767
+Source Address :192.168.0.104
+Destination Address :224.0.0.22
+
+
+Window :0
+Source Port :37892
+Offset & Reserved :2
+Tcp Flag :0
+CheckSum :57344
+Destination Port :0
+Urgent Pointer :251
+Sequence Number :570489602
+Acknowledge Number :1
+
+
+Protocol :2048
+Source Mac :780cb83aac8c
+Destination Mac :01005e000016
+
+
+Protocol :2
+Total Length :40
+Version :70
+Identification :60474
+TTL :1
+Fragment :0
+Tos :0
+Header CheckSum :38766
+Source Address :192.168.0.104
+Destination Address :224.0.0.22
+
+
+Window :0
+Source Port :37892
+Offset & Reserved :2
+Tcp Flag :0
+CheckSum :61376
+Destination Port :0
+Urgent Pointer :39055
+Sequence Number :570446766
+Acknowledge Number :1
+
+
+Protocol :2048
+Source Mac :606dc77803dd
+Destination Mac :01005e000016
+
+
+Protocol :2
+Total Length :40
+Version :70
+Identification :17653
+TTL :1
+Fragment :0
+Tos :0
+Header CheckSum :16051
+Source Address :192.168.0.105
+Destination Address :224.0.0.22
+
+
+Window :0
+Source Port :37892
+Offset & Reserved :2
+Tcp Flag :0
+CheckSum :57344
+Destination Port :0
+Urgent Pointer :252
+Sequence Number :570489601
+Acknowledge Number :1
+
+
+Protocol :2048
+Source Mac :780cb83aac8c
+Destination Mac :01005e000016
+
+
+Protocol :2
+Total Length :40
+Version :70
+Identification :60475
+TTL :1
+Fragment :0
+Tos :0
+Header CheckSum :38765
+Source Address :192.168.0.104
+Destination Address :224.0.0.22
+
+
+Window :0
+Source Port :37892
+Offset & Reserved :2
+Tcp Flag :0
+CheckSum :61439
+Destination Port :0
+Urgent Pointer :65530
+Sequence Number :570485763
+Acknowledge Number :1
+
+
+Protocol :2048
+Source Mac :606dc77803dd
+Destination Mac :01005e000016
+
+
+Protocol :2
+Total Length :40
+Version :70
+Identification :17654
+TTL :1
+Fragment :0
+Tos :0
+Header CheckSum :16050
+Source Address :192.168.0.105
+Destination Address :224.0.0.22
+
+
+Window :0
+Source Port :37892
+Offset & Reserved :2
+Tcp Flag :0
+CheckSum :57344
+Destination Port :0
+Urgent Pointer :251
+Sequence Number :570489602
+Acknowledge Number :1
+
+
+Protocol :2048
+Source Mac :0800275b5d7c
+Destination Mac :01005e000016
+
+
+Protocol :2
+Total Length :40
+Version :70
+Identification :0
+TTL :1
+Fragment :16384
+Tos :192
+Header CheckSum :17118
+Source Address :192.168.0.115
+Destination Address :224.0.0.22
+
+
+Window :0
+Source Port :37892
+Offset & Reserved :2
+Tcp Flag :0
+CheckSum :57344
+Destination Port :0
+Urgent Pointer :251
+Sequence Number :570489602
+Acknowledge Number :1
+
+
+Protocol :2048
+Source Mac :0800271b0f7c
+Destination Mac :01005e000016
+
+
+Protocol :2
+Total Length :40
+Version :70
+Identification :0
+TTL :1
+Fragment :16384
+Tos :192
+Header CheckSum :17111
+Source Address :192.168.0.122
+Destination Address :224.0.0.22
+
+
+Window :0
+Source Port :37892
+Offset & Reserved :2
+Tcp Flag :0
+CheckSum :57344
+Destination Port :0
+Urgent Pointer :251
+Sequence Number :570489602
+Acknowledge Number :1
+
+
+Protocol :2048
+Source Mac :606dc77803dd
+Destination Mac :01005e000016
+
+
+Protocol :2
+Total Length :40
+Version :70
+Identification :17655
+TTL :1
+Fragment :0
+Tos :0
+Header CheckSum :16049
+Source Address :192.168.0.105
+Destination Address :224.0.0.22
+
+
+Window :0
+Source Port :37892
+Offset & Reserved :2
+Tcp Flag :0
+CheckSum :61439
+Destination Port :0
+Urgent Pointer :65530
+Sequence Number :570485763
+Acknowledge Number :1
+
+
+Protocol :2048
+Source Mac :0800271b0f7c
+Destination Mac :0800276a6f3a
+
+
+Protocol :6
+Total Length :59
+Version :69
+Identification :22210
+TTL :64
+Fragment :16384
+Tos :0
+Header CheckSum :25021
+Source Address :192.168.0.122
+Destination Address :192.168.0.115
+
+
+Window :457
+Source Port :52122
+Offset & Reserved :128
+Tcp Flag :24
+CheckSum :17655
+Destination Port :65484
+Urgent Pointer :0
+Sequence Number :2945637859
+Acknowledge Number :662202226
+
+
+Protocol :2048
+Source Mac :0800271b0f7c
+Destination Mac :01005e0000fb
+
+
+Protocol :17
+Total Length :146
+Version :69
+Identification :53354
+TTL :255
+Fragment :16384
+Tos :0
+Header CheckSum :2258
+Source Address :192.168.0.122
+Destination Address :224.0.0.251
+
+
+Window :0
+Source Port :5353
+Offset & Reserved :0
+Tcp Flag :7
+CheckSum :0
+Destination Port :5353
+Urgent Pointer :0
+Sequence Number :8304365
+Acknowledge Number :0
+
+

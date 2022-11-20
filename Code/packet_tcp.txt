@@ -1,0 +1,9 @@
+Window :457
+Source Port :52122
+Offset & Reserved :128
+Tcp Flag :24
+CheckSum :17655
+Destination Port :65484
+Urgent Pointer :0
+Sequence Number :2945637859
+Acknowledge Number :662202226

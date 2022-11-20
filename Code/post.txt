@@ -1,0 +1,6 @@
+__elgg_token=62cEo2GU67oTmtfUW3DXtw&__elgg_ts=1567413991&title=What is Love?&excerpt=You may love yourself, but true love lies in loving all except you&description=<p>The world has not been so loving to her children. Since the birth of the planet, she has gone through much turmoil. Let&#39;s not worsen it by creating malice amongst us.</p> &tags=philosophy, crappy_talk&comments_on=On&access_id=2&status=published&guid=52&container_guid=45&save=Save
+
+http://www.xsslabelgg.com/action/blog/save
+
+boby_guid = 45
+alice_guid = 44

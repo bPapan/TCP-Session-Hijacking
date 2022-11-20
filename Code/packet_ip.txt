@@ -1,0 +1,10 @@
+Protocol :6
+Total Length :59
+Version :69
+Identification :22210
+TTL :64
+Fragment :16384
+Tos :0
+Header CheckSum :25021
+Source Address :192.168.0.122
+Destination Address :192.168.0.115
